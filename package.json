@@ -1,0 +1,28 @@
+{
+  "name": "desconto-carvertical",
+  "version": "1.0.0",
+  "description": "Desconto carVertical - Discount codes for carVertical VIN decoder services in Portugal",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "carvertical",
+    "desconto",
+    "codigo desconto",
+    "discount",
+    "coupon",
+    "promo code",
+    "vin decoder",
+    "vehicle history",
+    "historicocarro",
+    "portugal"
+  ],
+  "author": "vindecoderpro",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vindecoderpro/desconto-carvertical"
+  }
+}
+
