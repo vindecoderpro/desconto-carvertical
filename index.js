@@ -10,7 +10,8 @@ const discountCodes = [
     page: 'https://historicocarro.pt/desconto-carvertical/',
     title: 'Desconto carVertical',
     button: 'Desconto carVertical',
-    discount_code: 'HISTORICOCARRO'
+    discount_code: 'HISTORICOCARRO',
+    percentage: '20%'
   }
 ];
 

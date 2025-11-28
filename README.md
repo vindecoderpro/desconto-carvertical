@@ -36,9 +36,9 @@ console.log(codes)
 
 ## Available Discount Codes
 
-| Country | Website | Page | Title | Button | Discount Code |
-|---------|---------|------|-------|--------|---------------|
-| Portugal | [historicocarro.pt](https://historicocarro.pt/) | [desconto-carvertical](https://historicocarro.pt/desconto-carvertical/) | Desconto carVertical | Desconto carVertical | HISTORICOCARRO |
+| Country | Website | Page | Title | Button | Discount Code | Percentage |
+|---------|---------|------|-------|--------|---------------|------------|
+| Portugal | [historicocarro.pt](https://historicocarro.pt/) | [desconto-carvertical](https://historicocarro.pt/desconto-carvertical/) | Desconto carVertical | Desconto carVertical | HISTORICOCARRO | 20% |
 
 ## About
 
